@@ -1,0 +1,12 @@
+RA 116-2013 Ksenija Cvejic
+file	sum
+video-0.avi 74.0 
+video-1.avi 73.0 
+video-2.avi 70.0 
+video-3.avi 93.0 
+video-4.avi 122.0 
+video-5.avi 75.0 
+video-6.avi 94.0 
+video-7.avi 69.0 
+video-8.avi 116.0 
+video-9.avi 84.0 
